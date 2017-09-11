@@ -2,5 +2,5 @@ Usage
 =====
 
 ```
-docker run -it rcmorano/docker-hey --help
+docker run --rm -it rcmorano/docker-hey --help
 ```
